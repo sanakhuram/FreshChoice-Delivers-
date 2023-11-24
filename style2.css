@@ -1,0 +1,26 @@
+li{color: #801515; 
+}
+p {font-size: 20px;
+	color: purple
+}
+span {
+	font-size: 30px;
+}
+.boxmodel {
+	border:5px solid purple;
+	display: inline-block; 
+	padding: 5px 20px; 
+	margin: 0px 20px;
+}
+ body
+{background-image: url(https://images.unsplash.com/photo-1676809618974-ffe8c04a0bde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=300&q=60);
+background-size: cover;
+}
+li  {color: purple;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+	font-family: "Times New Roman", "Gorgia"
+
+}
